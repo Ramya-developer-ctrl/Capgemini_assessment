@@ -1,0 +1,32 @@
+/* App.css */
+
+.top-header {
+  background-color: #fed7d7; /* Light red background */
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;      /* Centers text vertically */
+  justify-content: center;   /* Centers text horizontally */
+  border-bottom: 1px solid #fed7d7;
+  position: fixed;           /* Sticks to the top */
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.app-heading {
+  margin: 0;
+  padding: 0;
+  font-family: 'math';
+  font-size: 22px;           /* Small enough to fit comfortably in 20px */
+  font-weight: 600;
+  color: #c53030;            /* Darker red text for readability */
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Add this to your main container so content doesn't hide under the header */
+.main-container {
+  margin-top: 25px; 
+  padding: 15px;
+}

@@ -1,0 +1,97 @@
+[
+  { "customerId": "C001", "transactionId": "T1001", "name": "Aarav Sharma", "amount": 120, "date": "2025-12-12" },
+  { "customerId": "C001", "transactionId": "T1002", "name": "Aarav Sharma", "amount": 75.50, "date": "2025-11-05" },
+  { "customerId": "C002", "transactionId": "T1003", "name": "Isha Gupta", "amount": 425.25, "date": "2025-10-18" },
+  { "customerId": "C003", "transactionId": "T1004", "name": "Aditya Rao", "amount": 99.99, "date": "2024-05-20" },
+  { "customerId": "C004", "transactionId": "T1005", "name": "Riya Patel", "amount": 150, "date": "2024-08-10" },
+  { "customerId": "C005", "transactionId": "T1006", "name": "Vikram Singh", "amount": 250, "date": "2023-01-05" },
+  { "customerId": "C006", "transactionId": "T1007", "name": "Ananya Das", "amount": 65, "date": "2023-12-22" },
+  { "customerId": "C007", "transactionId": "T1008", "name": "Rohan Mehta", "amount": 300.50, "date": "2022-03-05" },
+  { "customerId": "C008", "transactionId": "T1009", "name": "Sanya Malhotra", "amount": 110, "date": "2022-07-30" },
+  { "customerId": "C009", "transactionId": "T1010", "name": "Karan Johar", "amount": 45, "date": "2021-02-14" },
+  { "customerId": "C010", "transactionId": "T1011", "name": "Meera Iyer", "amount": 101, "date": "2021-11-18" },
+  { "customerId": "C011", "transactionId": "T1012", "name": "Arjun Kapoor", "amount": 500, "date": "2025-09-10" },
+  { "customerId": "C012", "transactionId": "T1013", "name": "Pooja Hegde", "amount": 12.75, "date": "2024-02-28" },
+  { "customerId": "C013", "transactionId": "T1014", "name": "Siddharth Malhotra", "amount": 95, "date": "2023-06-10" },
+  { "customerId": "C014", "transactionId": "T1015", "name": "Kiara Advani", "amount": 175, "date": "2022-12-25" },
+  { "customerId": "C015", "transactionId": "T1016", "name": "Varun Dhawan", "amount": 88.40, "date": "2021-05-11" },
+  { "customerId": "C001", "transactionId": "T1017", "name": "Aarav Sharma", "amount": 200, "date": "2025-01-20" },
+  { "customerId": "C002", "transactionId": "T1018", "name": "Isha Gupta", "amount": 50, "date": "2024-12-15" },
+  { "customerId": "C003", "transactionId": "T1019", "name": "Aditya Rao", "amount": 10, "date": "2023-10-01" },
+  { "customerId": "C004", "transactionId": "T1020", "name": "Riya Patel", "amount": 80, "date": "2022-04-12" },
+  { "customerId": "C016", "transactionId": "T1021", "name": "Rahul Bose", "amount": 105.50, "date": "2025-06-15" },
+  { "customerId": "C017", "transactionId": "T1022", "name": "Priya Mani", "amount": 55, "date": "2024-03-22" },
+  { "customerId": "C018", "transactionId": "T1023", "name": "Sanjay Dutt", "amount": 210, "date": "2023-09-09" },
+  { "customerId": "C019", "transactionId": "T1024", "name": "Zoya Akhtar", "amount": 49.99, "date": "2022-01-11" },
+  { "customerId": "C020", "transactionId": "T1025", "name": "Farhan Akhtar", "amount": 135, "date": "2021-08-14" },
+  {
+    "transactionId": "T1001",
+    "customerId": "C001",
+    "name": "Aarav Sharma",
+    "amount": 120.50,
+    "date": "2025-01-12"
+  },
+  {
+    "transactionId": "T1002",
+    "customerId": "C002",
+    "name": "Ishani Gupta",
+    "amount": 75.25,
+    "date": "2025-01-15"
+  },
+  {
+    "transactionId": "T1003",
+    "customerId": "C001",
+    "name": "Aarav Sharma",
+    "amount": 200.00,
+    "date": "2025-02-05"
+  },
+  {
+    "transactionId": "T1004",
+    "customerId": "C003",
+    "name": "Vikram Malhotra",
+    "amount": 45.00,
+    "date": "2025-02-14"
+  },
+  {
+    "transactionId": "T1005",
+    "customerId": "C002",
+    "name": "Ishani Gupta",
+    "amount": 110.75,
+    "date": "2025-02-28"
+  },
+  {
+    "transactionId": "T1006",
+    "customerId": "C004",
+    "name": "Ananya Iyer",
+    "amount": 99.99,
+    "date": "2025-03-02"
+  },
+  {
+    "transactionId": "T1007",
+    "customerId": "C001",
+    "name": "Aarav Sharma",
+    "amount": 50.00,
+    "date": "2025-03-10"
+  },
+  {
+    "transactionId": "T1008",
+    "customerId": "C003",
+    "name": "Vikram Malhotra",
+    "amount": 150.25,
+    "date": "2025-03-18"
+  },
+  {
+    "transactionId": "T1009",
+    "customerId": "C005",
+    "name": "Rohan Verma",
+    "amount": 85.00,
+    "date": "2025-04-05"
+  },
+  {
+    "transactionId": "T1010",
+    "customerId": "C002",
+    "name": "Ishani Gupta",
+    "amount": 130.40,
+    "date": "2025-04-12"
+  }
+]
