@@ -94,6 +94,15 @@ logger.info(): Used for tracking filter changes (Month/Year), row selections, an
 
 Logic: Logs are primarily active in the development environment to maintain performance in production.
 
+ ## Testcase success screenshot
+
+<img width="1115" height="572" alt="image" src="https://github.com/user-attachments/assets/f4d73746-2db8-4d2f-b090-23428b547a79" />
+
+ ## Application screenshot
+
+ <img width="1887" height="1020" alt="image" src="https://github.com/user-attachments/assets/fc85f8c6-c5b1-4c81-ba38-7f0be1a373d3" />
+
+
   ## Dependencies
 UI: @mantine/core, mantine-react-table
 
